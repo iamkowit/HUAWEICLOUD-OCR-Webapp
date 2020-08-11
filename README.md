@@ -1,3 +1,4 @@
 # HUAWEICLOUD-OCR-Webapp
 
-![image](http://github.com/hexlicn/HUAWEICLOUD-OCR-Webapp/raw/master/images/arch.png)
+Architecture Desc:
+![Alt text](https://github.com/hexlicn/HUAWEICLOUD-OCR-Webapp/blob/master/images/arch.png)
