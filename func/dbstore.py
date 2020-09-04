@@ -12,7 +12,7 @@ def handler (event, context):
     # Connect to the database
     connection = pymysql.connect(host='192.168.0.71',
                                 user='ocr_usr',
-                                password='Welcome1',
+                                password='<your_mysql_password>',
                                 db='ocr_store',
                                 charset='utf8mb4',
                                 cursorclass=pymysql.cursors.DictCursor)
