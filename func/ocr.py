@@ -16,8 +16,8 @@ def handler (event, context):
     print(filePath)
 
     region = "ap-southeast-2"
-    ak = "AQJ7KZJR00DDWVOSEWIP"
-    sk = "vWWjq6rLRw9qpQ5GyoUsbQ0lWZWU3Q3OgYSkukdl"
+    ak = "<input_your_ak>"
+    sk = "<input_your_sk>"
     imagePath = "https://react-ap-webapp-images.obs.ap-southeast-2.myhuaweicloud.com/" + filePath
     option = {}
     
