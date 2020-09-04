@@ -4,8 +4,8 @@ var ObsClient = require('esdk-obs-nodejs');
 
 // create ObsClient instance
 var obsClient = new ObsClient({
-       access_key_id: 'AQJ7KZJR00DDWVOSEWIP',
-       secret_access_key: 'vWWjq6rLRw9qpQ5GyoUsbQ0lWZWU3Q3OgYSkukdl',
+       access_key_id: '<input_your_ak>',
+       secret_access_key: '<input_your_sk>',
        server : 'obs.ap-southeast-2.myhuaweicloud.com',
        max_retry_count : 1,
        timeout : 200,
