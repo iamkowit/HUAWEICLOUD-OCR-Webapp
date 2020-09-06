@@ -15,3 +15,8 @@ How to demo:
 Please navigate to : http://react-ap-webapp.obs-website.ap-southeast-2.myhuaweicloud.com/
 
 ![img](https://github.com/hexlicn/HUAWEICLOUD-OCR-Webapp/blob/master/images/react-app-ocr.gif)
+
+
+Author Info:
+
+Any questions, please email to lihexin1@huawei.com
