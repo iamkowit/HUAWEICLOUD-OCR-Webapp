@@ -1,3 +1,11 @@
-FROM node:8
-COPY ./app .
-CMD ["node", "./bin/www"]
+FROM node:alpine
+
+WORKDIR /app
+
+COPY package.json /app
+
+RUN yarn install
+
+COPY ./app /app
+
+CMD ["yarn", "run", "start"]
